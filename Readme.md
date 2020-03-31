@@ -1,4 +1,4 @@
-# United Arts: https://github.com/ecumenic/open-culture-protocol
+# # Open Culture Protocol: https://github.com/ecumenic/open-culture-protocol
 ![Our Logo](https://github.com/ecumenic/open-culture-protocol/blob/master/Open%20Culture%20Protocol.png)
 
 1. **Project:** In order to stablish a laic-interfaith diplomatic crosscultural reliability engineering
