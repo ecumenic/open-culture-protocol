@@ -1,0 +1,16 @@
+Culture		Investment	Governance	Production	Consume
+Terminal	Market		Governments	Ecomuseology	Media
+Application	Institution	Rule-Of-Law	Development	Interactivity
+Security	Transparency	Risk-Management	Harm-Reduction	Journalism	
+Platform	Accountability	Policying	Compliance	Crossculturality
+Network		Accessibility	Inclusivity	Logistics	Education
+System		Promotion	Auditorship	Distribution	Commodification
+Analysis	Safeguard	Cybernetics	Ethics		Health
+Ontology	Economy		Ecology		Aesthetics	Laicity
+Semantics	Connectivities	Fair Trade	Methodology	Performativity
+Semiotics	Solidarity	Enforcement	Communicology	Noetics
+Politics	Philanthropy	Diplomacy	Heritage	Sociology
+Technology	Commerce	Glocality	Devops		Previdence
+Data-Science	Data-Analysis	Data-Ethics	Info-Science	Curatorship
+
+Columns are user experience flows and rows interdisciplinary reliability engineering.
